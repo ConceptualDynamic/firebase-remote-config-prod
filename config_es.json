@@ -5,7 +5,7 @@
       "showMenu": true,
       "showCart": true,
       "showSearch": false,
-      "showLogo": false
+      "showLogo": true
     },
     {
       "layout": "bannerImage",
@@ -45,15 +45,17 @@
           "padding": 5.0
         },
         {
+          "category": 569,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-2.jpg",
           "padding": 5.0
         },
         {
+          "category": 442,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-3.jpg",
           "padding": 5.0
         },
         {
-          "category": 2426,
+          "category": 469,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-4.jpg",
           "padding": 5.0
         },
@@ -70,6 +72,7 @@
       "height": 0.2,
       "items": [
         {
+          "category": 569,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-1.png",
           "padding": 5.0
         }
@@ -77,49 +80,44 @@
       "marginTop": 10.0
     },
     {
-      "name": "Calzado",
+      "name": "Cyber Monday en Televisores con súper descuento",
       "image": "",
       "layout": "twoColumn",
-      "category": 511
-    },
-    {
-      "name": "Ropa",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 501
+      "category": 569
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
-          "category": 478,
+          "category": 2494,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-2.png",
           "padding": 5.0
         }
       ]
     },
     {
-      "name": "Licores",
+      "name": "Pensamos en los regalos para estas Navidades",
       "image": "",
       "layout": "twoColumn",
-      "category": 478
+      "category": 2494
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
+          "category": 456,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-3.png",
           "padding": 5.0
         }
       ]
     },
     {
-      "name": "Televisores",
+      "name": "¡Llegaron nuevos modelos de celulares!",
       "image": "",
       "layout": "twoColumn",
-      "category": 569
+      "category": 456
     },
     {
       "layout": "bannerImage",
@@ -133,7 +131,7 @@
       ]
     },
     {
-      "name": "Nuestros productos a 5$ ",
+      "name": "¡No te quedes por fuera y aprovecha ya!",
       "image": "",
       "layout": "twoColumn",
       "category": 581
