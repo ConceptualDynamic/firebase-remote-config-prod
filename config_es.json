@@ -5,7 +5,7 @@
       "showMenu": true,
       "showCart": true,
       "showSearch": false,
-      "showLogo": true
+      "showLogo": false
     },
     {
       "layout": "bannerImage",
