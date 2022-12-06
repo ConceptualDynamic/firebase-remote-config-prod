@@ -125,17 +125,17 @@
       "height": 0.25,
       "items": [
         {
-          "category": 581,
+          "category": 2556,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-4.png",
           "padding": 5.0
         }
       ]
     },
     {
-      "name": "¡No te quedes por fuera y aprovecha ya!",
+      "name": "¡Compra a precios súper bajos!",
       "image": "",
       "layout": "twoColumn",
-      "category": 581
+      "category": 2556
     }
   ],
   "Setting": {
