@@ -73,59 +73,59 @@
       "height": 0.2,
       "items": [
         {
-          "category": 456,
-          "image": "https://tumundototal.com/media/wysiwyg/apaisados-1.jpg",
+          "category": 2424,
+          "image": "https://tumundototal.com/media/wysiwyg/apaisados-1.png",
           "padding": 5.0
         }
       ],
       "marginTop": 10.0
     },
     {
-      "name": "¡Llegaron nuevos modelos de celulares!",
+      "name": "¡Aprovecha, sólo por pocas horas!",
       "image": "",
       "layout": "twoColumn",
-      "category": 456
+      "category": 2424
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
-          "category": 2494,
-          "image": "https://tumundototal.com/media/wysiwyg/apaisados-2.jpg",
+          "category": 438,
+          "image": "https://tumundototal.com/media/wysiwyg/apaisados-2.png",
           "padding": 5.0
         }
       ]
     },
      {
-      "name": "Pensamos en los regalos para estas Navidades",
+      "name": "Si viajas, viajas con nosotros",
       "image": "",
       "layout": "twoColumn",
-      "category": 2494
+      "category": 438
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
-          "category": 2426,
-          "image": "https://tumundototal.com/media/wysiwyg/apaisados-3.jpg",
+          "category": 557,
+          "image": "https://tumundototal.com/media/wysiwyg/apaisados-3.png",
           "padding": 5.0
         }
       ]
     },
     {
-      "name": "¡Feliz Navidad y Próspero año nuevo 2023!",
+      "name": "¡Lo mejor para regalar a tus seres queridos!",
       "image": "",
       "layout": "twoColumn",
-      "category": 2426
+      "category": 557
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
-          "category": 2556,
+          "category": 445,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-4.png",
           "padding": 5.0
         }
@@ -135,7 +135,7 @@
       "name": "¡Compra a precios súper bajos!",
       "image": "",
       "layout": "twoColumn",
-      "category": 2556
+      "category": 445
     }
   ],
   "Setting": {
