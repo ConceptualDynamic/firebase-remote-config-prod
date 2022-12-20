@@ -41,27 +41,26 @@
       "radius": 2.0,
       "items": [
         {
-          "category": 440,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-1.jpg",
           "padding": 5.0
         },
         {
-          "category": 2540,
+          "category": 450,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-2.jpg",
           "padding": 5.0
         },
         {
-          "category": 501,
+          "category": 478,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-3.jpg",
           "padding": 5.0
         },
         {
-          "category": 464,
+          "category": 501,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-4.jpg",
           "padding": 5.0
         },
         {
-          "category": 498,
+          "category": 438,
           "image": "https://tumundototal.com/media/amasty/bannerslider/banner-5.jpg",
           "padding": 5.0
         }
@@ -73,7 +72,7 @@
       "height": 0.2,
       "items": [
         {
-          "category": 2424,
+          "category": 456,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-1.png",
           "padding": 5.0
         }
@@ -81,61 +80,61 @@
       "marginTop": 10.0
     },
     {
-      "name": "¡Aprovecha, sólo por pocas horas!",
+      "name": "¡Con la compra de un celular te regalamos unos audífonos!",
       "image": "",
       "layout": "twoColumn",
-      "category": 2424
+      "category": 456
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
-          "category": 438,
+          "category": 440,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-2.png",
           "padding": 5.0
         }
       ]
     },
      {
-      "name": "Si viajas, viajas con nosotros",
+      "name": "Descuentazos en Electrónica",
       "image": "",
       "layout": "twoColumn",
-      "category": 438
+      "category": 440
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
-          "category": 557,
+          "category": 511,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-3.png",
           "padding": 5.0
         }
       ]
     },
     {
-      "name": "¡Lo mejor para regalar a tus seres queridos!",
+      "name": "¡Calzado con variedad de descuentos!",
       "image": "",
       "layout": "twoColumn",
-      "category": 557
+      "category": 511
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
-          "category": 445,
+          "category": 464,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-4.png",
           "padding": 5.0
         }
       ]
     },
     {
-      "name": "¡Compra a precios súper bajos!",
+      "name": "¡Hogar en Descuento!",
       "image": "",
       "layout": "twoColumn",
-      "category": 445
+      "category": 464
     }
   ],
   "Setting": {
