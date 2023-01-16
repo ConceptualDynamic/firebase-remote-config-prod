@@ -72,7 +72,7 @@
       "height": 0.2,
       "items": [
         {
-          "category": 456,
+          "category": 507,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-1.png",
           "padding": 5.0
         }
@@ -80,27 +80,27 @@
       "marginTop": 10.0
     },
     {
-      "name": "¡Con la compra de un celular te regalamos unos audífonos!",
+      "name": "¡Año nuevo, Closet Nuevo!",
       "image": "",
       "layout": "twoColumn",
-      "category": 456
+      "category": 507
     },
     {
       "layout": "bannerImage",
       "height": 0.25,
       "items": [
         {
-          "category": 440,
+          "category": 500,
           "image": "https://tumundototal.com/media/wysiwyg/apaisados-2.png",
           "padding": 5.0
         }
       ]
     },
      {
-      "name": "Descuentazos en Electrónica",
+      "name": "KimBeauty: Una marca con sello venezolano",
       "image": "",
       "layout": "twoColumn",
-      "category": 440
+      "category": 500
     },
     {
       "layout": "bannerImage",
@@ -114,27 +114,10 @@
       ]
     },
     {
-      "name": "¡Calzado con variedad de descuentos!",
+      "name": "¡Calzado nuevo para todos los estilos!",
       "image": "",
       "layout": "twoColumn",
       "category": 511
-    },
-    {
-      "layout": "bannerImage",
-      "height": 0.25,
-      "items": [
-        {
-          "category": 464,
-          "image": "https://tumundototal.com/media/wysiwyg/apaisados-4.png",
-          "padding": 5.0
-        }
-      ]
-    },
-    {
-      "name": "¡Hogar en Descuento!",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 464
     }
   ],
   "Setting": {
